@@ -1,0 +1,15 @@
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\bin\Debug\net8.0\Ride_sharing_app.exe
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\bin\Debug\net8.0\Ride_sharing_app.deps.json
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\bin\Debug\net8.0\Ride_sharing_app.runtimeconfig.json
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\bin\Debug\net8.0\Ride_sharing_app.dll
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\bin\Debug\net8.0\Ride_sharing_app.pdb
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.AssemblyInfoInputs.cache
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.AssemblyInfo.cs
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.dll
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\refint\Ride_sharing_app.dll
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.pdb
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.genruntimeconfig.cache
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\ref\Ride_sharing_app.dll
+C:\Users\IQRA\source\repos\Ride_sharing_app\Ride_sharing_app\obj\Debug\net8.0\Ride_sharing_app.sourcelink.json
