@@ -1,0 +1,7 @@
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe.config
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.exe
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\bin\Debug\Coffee_Shop_Management.pdb
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.AssemblyReference.cache
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.exe
+C:\Users\IQRA\source\repos\Coffee_Shop_Management\Coffee_Shop_Management\obj\Debug\Coffee_Shop_Management.pdb
