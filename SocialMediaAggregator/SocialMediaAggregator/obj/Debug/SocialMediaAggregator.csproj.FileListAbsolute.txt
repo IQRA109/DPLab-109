@@ -1,0 +1,2 @@
+C:\Users\IQRA\source\repos\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.AssemblyReference.cache
+C:\Users\IQRA\source\repos\SocialMediaAggregator\SocialMediaAggregator\obj\Debug\SocialMediaAggregator.csproj.CoreCompileInputs.cache
